@@ -1,2 +1,2 @@
-# profile-card
+# Profile Card
 A Practice project in React
